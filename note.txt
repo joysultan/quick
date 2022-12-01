@@ -1,0 +1,3 @@
+first: #FDEBED;
+second:#EBF9F4;
+third:#FFF7E8;
